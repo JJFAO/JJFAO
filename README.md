@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react, react-native, javascript, html, css**
 
-- 📄 Know about my experiences [shorturl.at/dzBJT](shorturl.at/dzBJT)
+- 📄 Know about my experiences [Resume](shorturl.at/dzBJT)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
