@@ -9,6 +9,8 @@
 
 - 📄 Know about my experiences [Resume](shorturl.at/dzBJT)
 
+- Code practices & challenges [Rick & Morty App](https://github.com/JJFAO/react-challenge-iol)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/juan-jose-f-alonso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-jose-f-alonso" height="30" width="40" /></a>
