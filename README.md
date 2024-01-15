@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👾, I'm JJ</h1>
 <h3 align="center">A passionate frontend and fullstack developer from Argentina</h3>
 
-- 🔭 I’m currently working on Making Sense
-
-- 🌱 I’m currently learning **testing with Jest and react-testing-library**
+- 🔭 I’m currently working on Entropy
 
 - 💬 Ask me about **react, react-native, javascript, html, css**
 
